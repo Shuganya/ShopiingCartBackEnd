@@ -1,1 +1,1 @@
-.This is E-commerce project.In this project, I have used technologies like Maven,Bootstrap,Spring framework,Spring MVC framework,Hibernate and H2 for database.
+I have developed E-Commerce project.This is Maven Spring MVC project.I have used bootstrap,HTML,CSS,Spring MVC for Front End.For backEnd,I have used Maven.For connecting my front end and backend,I have used Hibernate.And H2 for database.
